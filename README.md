@@ -1,5 +1,5 @@
-### Olá, eu sou a Vanessa Maiz, estudante de programação no PROA 💙
+### Olá! eu sou a Vanessa Maiz, estudante de programação no Instituto Proa. 💙
 
-- 🌱 Atualmente estou aprendendo interfaces/html/css
+- 🌱 Atualmente estou estudando Interfaces, HTML, CSS, Java e JavaScript.
 - 😄 Pronomes: ela/dela
 
