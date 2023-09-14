@@ -1,4 +1,4 @@
-### Olá! eu sou a Vanessa Maiz, estudante de programação no Instituto Proa. 💙
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0000FF&size=35&center=true&vCenter=true&width=1000&lines=Olá!+eu+sou+a+Vanessa;Aluna+do+Instituto+Proa.+💙;)](https://git.io/typing-svg)
 
 - 🌱 Atualmente estou estudando Interfaces, HTML, CSS, Java e JavaScript.
 ##
